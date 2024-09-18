@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: micrograd.ipynb
+  checksum: 7ac39fbb8bee2d09c1f85b83b8e5eb4c0ccaaaf304d64392f90bada54504612b
+version: ""
